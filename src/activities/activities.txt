@@ -55,7 +55,6 @@ hanoi_real
 hexagon
 imagename
 instruments
-intro_gravity
 lang
 leftright
 lightsoff
